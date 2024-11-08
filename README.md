@@ -63,7 +63,6 @@ The app follows the MVVM pattern:
 
 - **Kotlin**: For the main programming language.
 - **RecyclerView**: To display the contact list.
-- **Room (optional)**: For local data persistence if needed.
 - **LiveData and ViewModel**: For reactive UI updates.
 - **Permissions**: Runtime permissions for accessing contacts, making calls, and sending SMS.
 - **Localization**: Support for multiple languages.
