@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اللو الزين</string>
+    <string name="contact_name">اسم الاتصال</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="call">اتصال</string>
+    <string name="sms">رسالة</string>
+    <string name="app_logo_description">للو الزين</string>
+    <string name="permission_denied">تم رفض إذن الاتصال</string>
+</resources>

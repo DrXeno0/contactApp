@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">All Zin</string>
+    <string name="contact_name">Nom du contact</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="call">Appel</string>
+    <string name="sms">SMS</string>
+    <string name="app_logo_description">Alllo Zin</string>
+    <string name="permission_denied">Permission d\'appel refusée</string>
+</resources>

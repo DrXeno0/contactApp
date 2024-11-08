@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Allo Zin</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="call">Call</string>
+    <string name="sms">SMS</string>
+    <string name="app_logo_description">Allo Zin</string>
+    <string name="permission_denied">Call permission denied</string>
+</resources>
